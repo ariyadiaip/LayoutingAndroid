@@ -65,8 +65,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Daftar"
-            android:gravity="center"
-            android:layout_below="@id/retryPassword"/>
+            android:layout_below="@id/retryPassword"
+            android:layout_centerHorizontal="true"/>
     </RelativeLayout>
 
 </LinearLayout>
